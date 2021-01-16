@@ -32,7 +32,7 @@
     },
     head () {
       return {
-        title: this.$t('indexPageHead.title'),
+        title: 'About',
         htmlAttrs: {
           lang: this.$i18n.locale,
         },
